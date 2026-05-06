@@ -114,9 +114,9 @@ The Arduino sketch handles:
 
 <img width="1005" height="1559" alt="WhatsApp Image 2026-05-06 at 5 16 48 PM" src="https://github.com/user-attachments/assets/fd651a59-220f-49ff-97ef-c344b093506d" />
 
-https://github.com/user-attachments/assets/e6dfb9d8-3536-4b50-afde-31fd06e3f685
+https://github.com/user-attachments/assets/ebf66df5-e0b9-4a23-b72c-b17b39cb42b0
 
-https://github.com/user-attachments/assets/81330cf8-ac51-414a-809d-65459ea88e14
+https://github.com/user-attachments/assets/2da7f1b7-32f2-4619-84a6-c21835f4ec3b
 
 ---
 
