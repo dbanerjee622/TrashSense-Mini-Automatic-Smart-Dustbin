@@ -62,7 +62,7 @@ Follow these steps to assemble your DIY Mini Automatic Smart Dustbin:
 2. Connect the ultrasonic sensor to the Arduino and breadboard.  
 3. Secure the sensor to the **front of the bin** using tape or glue.
  
-![Diagram Outline](https://imgur.com/a/0dp2IFM.png) ***FIX***
+<img width="1402" height="775" alt="Screenshot 2026-05-03 183930" src="https://github.com/user-attachments/assets/2ae31b5e-70f3-420f-a8b1-0a76242a0f6c" />
 
 Retrived from [EAZYTRONIC](https://www.youtube.com/@eazytronic9394)'s [video](https://www.youtube.com/watch?v=lGzsB4BpDJA)
 
@@ -112,8 +112,13 @@ The Arduino sketch handles:
 
 ## Demo & Expected Operation 📸🎥
 
+<img width="1005" height="1559" alt="WhatsApp Image 2026-05-06 at 5 16 48 PM" src="https://github.com/user-attachments/assets/fd651a59-220f-49ff-97ef-c344b093506d" />
 
+https://github.com/user-attachments/assets/e6dfb9d8-3536-4b50-afde-31fd06e3f685
 
+https://github.com/user-attachments/assets/81330cf8-ac51-414a-809d-65459ea88e14
+
+---
 
 ## Credits/Incentives 🏆
 
