@@ -50,7 +50,7 @@ Follow these steps to assemble your DIY Mini Automatic Smart Dustbin:
    - Cut a rectangle larger than the top opening.  
    - Fold the extra edges over the top of the structure.  
    - Tape only the **back edge** of the lid to the structure.  
-     > ⚠️ Do not tape the other edges—this allows the lid to open freely.  
+     > ⚠️ **Do not tape the other edges. this allows the lid to open freely**.  
 5. **A final image is attached at the end**.
 
 ### 2. Install the Servo Motor
@@ -98,7 +98,7 @@ The Arduino sketch handles:
 - Opening and closing the lid with the servo motor.  
 - Timing the lid open duration for smooth operation.  
 
-> Full code is included in `SmartDustbin.ino`.  
+> The primary code is included in `main.cpp`, but you should verify that `.gitignore` and ` .  
 
 ---
 
