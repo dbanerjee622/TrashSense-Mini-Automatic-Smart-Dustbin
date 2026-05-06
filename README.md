@@ -50,7 +50,7 @@ Follow these steps to assemble your DIY Mini Automatic Smart Dustbin:
    - Cut a rectangle larger than the top opening.  
    - Fold the extra edges over the top of the structure.  
    - Tape only the **back edge** of the lid to the structure.  
-     > ⚠️ **Do not tape the other edges. this allows the lid to open freely**.  
+     > ⚠️ **Do not tape the other edges. This will lock the lid and make it very difficult to open**.  
 5. **A final image is attached at the end**.
 
 ### 2. Install the Servo Motor
@@ -62,7 +62,7 @@ Follow these steps to assemble your DIY Mini Automatic Smart Dustbin:
 2. Connect the ultrasonic sensor to the Arduino and breadboard.  
 3. Secure the sensor to the **front of the bin** using tape or glue.
  
-![Diagram Outline](https://imgur.com/a/0dp2IFM.png)
+![Diagram Outline](https://imgur.com/a/0dp2IFM.png) ***FIX***
 
 Retrived from [EAZYTRONIC](https://www.youtube.com/@eazytronic9394)'s [video](https://www.youtube.com/watch?v=lGzsB4BpDJA)
 
@@ -98,7 +98,7 @@ The Arduino sketch handles:
 - Opening and closing the lid with the servo motor.  
 - Timing the lid open duration for smooth operation.  
 
-> The primary code is included in `main.cpp`, but you should verify that `.gitignore` and ` .  
+> The primary code is included in `src/main.cpp`, but you should verify that `test/.gitignore` and `test/platformio.ini` match, as you may need to change a few lines. .  
 
 ---
 
@@ -107,6 +107,21 @@ The Arduino sketch handles:
 - Add an **IR sensor** for even more accurate detection.  
 - Use a **rechargeable battery** to make it portable.  
 - Upgrade to a **larger bin** for more practical use.  
+
+---
+
+## Demo & Expected Operation 📸🎥
+
+
+
+
+## Credits/Incentives 🏆
+
+I decided to build this system to make throwing away trash easier and more hygienic, especially when your hands are full or messy. This project helps keep things clean while also being a fun and practical way to learn about Arduino and automation.
+
+Thanks to [EAZYTRONIC](https://www.youtube.com/@eazytronic9394) for the inspiration and guidance throughout this project. You can see their original video [here](https://www.youtube.com/watch?v=lGzsB4BpDJA).
+
+Feel free leave a comment with any questions or concerns, and I will be happy to help you!
 
 ---
 
